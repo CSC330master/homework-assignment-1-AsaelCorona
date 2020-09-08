@@ -1,0 +1,21 @@
+2. Linux commands used in this homework:
+ pwd (describes current directory)
+mkdir (creates new directory)
+cd (change directory)
+cd .. (goes one directory up)
+
+3. Git commands used in this homework
+ config (used to point our username and email)
+clone (copies the files in the repository to the local VM)
+status (check the status of local modifications to files copied from the
+online repository)
+add (adds a file or group of files to a list of files to be updated)
+commit (makes the changes listed on add)
+push (update the changes made to files locally to the online repository)
+
+4.
+i. We're encouraged to work in pairs (unless otherwise specified). We can
+also do the assignments individually. If we work in pairs both students
+receive the same grade
+
+
